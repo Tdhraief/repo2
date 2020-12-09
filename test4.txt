@@ -3,12 +3,14 @@
 
  R‚pertoire de C:\Users\Taha\Desktop\MyProject
 
-15/11/2020  09:45    <DIR>          .
-15/11/2020  09:45    <DIR>          ..
+15/11/2020  12:11    <DIR>          .
+15/11/2020  12:11    <DIR>          ..
 12/11/2020  23:39                22 index.html
 14/11/2020  21:46               522 index2.html
+15/11/2020  12:11                84 index5.html
 12/11/2020  23:38                10 test1.txt
 14/11/2020  21:21               473 test2.txt
-15/11/2020  09:45                 0 test4.txt
-               5 fichier(s)            1ÿ027 octets
-               2 R‚p(s)  351ÿ915ÿ814ÿ912 octets libres
+09/12/2020  19:09                 0 test4.txt
+15/11/2020  12:24                 6 test5.txt
+               7 fichier(s)            1ÿ117 octets
+               2 R‚p(s)  339ÿ636ÿ035ÿ584 octets libres
