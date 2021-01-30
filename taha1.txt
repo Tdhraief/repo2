@@ -1,0 +1,19 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 566D-503D
+
+ R‚pertoire de C:\Users\Taha\Desktop\MyProject
+
+30/01/2021  10:04    <DIR>          .
+30/01/2021  10:04    <DIR>          ..
+12/11/2020  23:39                22 index.html
+14/11/2020  21:46               522 index2.html
+15/11/2020  12:11                84 index5.html
+30/01/2021  10:03               195 taha.txt
+30/01/2021  10:04                 0 taha1.txt
+12/11/2020  23:38                10 test1.txt
+14/11/2020  21:21               473 test2.txt
+09/12/2020  19:09               665 test4.txt
+15/11/2020  12:24                 6 test5.txt
+30/01/2021  09:54               713 tester.txt
+              10 fichier(s)            2ÿ690 octets
+               2 R‚p(s)  337ÿ363ÿ759ÿ104 octets libres
