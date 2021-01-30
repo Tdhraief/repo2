@@ -1,0 +1,4 @@
+dir	       index.html   taha1.txt  test2.txt  tester.txt
+fichier1.txt   index2.html  taha2.txt  test4.txt  wct.html
+fichier2.hyml  index5.html  taha3.txt  test5.	  wct.txt
+gmail.txt      taha.txt     test1.txt  test5.txt
